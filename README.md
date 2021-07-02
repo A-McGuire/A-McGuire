@@ -32,8 +32,8 @@
 
 <details>
   <summary><b>Hobbies</b></summary>
-    🎧 I love live music<br>
-    🧗 I enjoy flailing my way up rocks<br>
-    🏍 I fix (and ride) old broken down motorcycles<br>
-    🪴 Doing my best to make the interior of my house look like a jungle via houseplants<br>
+    🎧  I love live music<br>
+    🧗  I enjoy flailing my way up rocks<br>
+    🏍  I fix (and ride) old broken down motorcycles<br>
+    🪴  Doing my best to make the interior of my house look like a jungle via houseplants<br>
 </details>
