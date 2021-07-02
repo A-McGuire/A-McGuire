@@ -27,3 +27,13 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+<hr>
+
+<details>
+  <summary><b>Hobbies</b></summary>
+    🎧 I love live music<br>
+    🧗 I enjoy flailing my way up rocks<br>
+    🏍 I fix (and ride) old broken down motorcycles<br>
+    🪴 Doing my best to make the interior of my house look like a jungle via houseplants<br>
+</details>
