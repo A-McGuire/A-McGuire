@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/aidanmcguire/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://docs.google.com/document/d/1I3mtbdom9upPEyLXsCjgFFFYk7sV3FR1yImiS7CRSEo/edit?usp=sharing"><img alt="Aidan McGuire's resume" src="https://img.shields.io/badge/view%20my-resume-blue?style=for-the-badge"/></a>
+  <a href="https://docs.google.com/document/d/1lV7FUWMfP3cKhdJQTFvsIwWgYkASYIVt8ceGoRMmZ7M/edit?usp=sharing"><img alt="Aidan McGuire's resume" src="https://img.shields.io/badge/view%20my-resume-blue?style=for-the-badge"/></a>
   <a href="mailto: aidanmcguire211@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
 
